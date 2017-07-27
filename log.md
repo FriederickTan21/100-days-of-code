@@ -2,8 +2,7 @@
 
 Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
-## Day x: Month Day, Year
-###### (Copy/Paste Example)
+## Day x: July Day, 2017
 **Today's Progress**: (stuff done)
 
 **Thoughts**: (thoughts on stuff done)
@@ -18,3 +17,11 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts:** Algorithms are difficult, excited to start doing Advanced Front End Development Projects tomorrow!
 
 **Link to freeCodeCamp:** [freeCodeCamp Profile](https://www.freecodecamp.org/friedericktan21)
+
+
+## Day 1: July 28, 2017
+**Today's Progress**: Finished the "Build a Calculator" challenge
+
+**Thoughts**: I learned what CSS is truely capable of. Also excited to start working on the Pomodoro Clock tomorrow :D
+
+**Link(s) to work**: [Calculator](https://codepen.io/friedericktan/pen/EvjrOK)
