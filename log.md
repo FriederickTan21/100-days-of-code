@@ -25,3 +25,11 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts**: I learned what CSS is truely capable of. Also excited to start working on the Pomodoro Clock tomorrow :D
 
 **Link(s) to work**: [Calculator](https://codepen.io/friedericktan/pen/EvjrOK)
+
+
+## Day 2: July 29, 2017
+**Today's Progress**: Worked on my Pomodoro Timer. Did the framework of it.
+
+**Thoughts**: This project has a lot of room for creativity.
+
+**Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
