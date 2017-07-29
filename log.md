@@ -33,3 +33,11 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts**: This project has a lot of room for creativity.
 
 **Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
+
+
+## Day 3: July 30, 2017
+**Today's Progress**: Continued to work and flesh out the Pomodoro Timer.
+
+**Thoughts**: I definitly did not waste a lot of time on colors.
+
+**Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
