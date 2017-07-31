@@ -2,12 +2,12 @@
 
 Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
-## Day x: July Day, 2017
+## Day x: August y, 2017
 **Today's Progress**: (stuff done)
 
 **Thoughts**: (thoughts on stuff done)
 
-**Link(s) to work**: [link to stuff done (or lack thereof)](http://www.example.com)
+**Link(s) to work**: [name of link](http://www.example.com)
 
 
 ## Day 0: July 27, 2017
@@ -39,5 +39,13 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Today's Progress**: Continued to work and flesh out the Pomodoro Timer.
 
 **Thoughts**: I definitly did not waste a lot of time on colors.
+
+**Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
+
+
+## Day 4: August 1, 2017
+**Today's Progress**: Worked on the logic of the Pomodoro Timer 
+
+**Thoughts**: I'm a little sad to miss yesterday because of an internet outage. 
 
 **Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
