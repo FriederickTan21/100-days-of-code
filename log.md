@@ -49,3 +49,12 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts**: I'm a little sad to miss yesterday because of an internet outage. 
 
 **Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
+
+
+## Day 5: August 2, 2017
+**Today's Progress**: Almost done with the Pomodoro Timer 
+
+**Thoughts**: This is taking me longer than I thought. 
+
+**Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
+
