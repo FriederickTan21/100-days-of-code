@@ -58,3 +58,13 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
 
+
+## Day 6: August 3, 2017
+**Today's Progress**: Finished up Pomodoro Timer and started working on Tic-Tac-Toe project 
+
+**Thoughts**: I'm not sure what to do for the interface so I'm getting the logic done first.
+
+**Link(s) to work**: [Pomodoro Timer](https://codepen.io/friedericktan/pen/mMeKXw)
+
+[Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
+
