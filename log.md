@@ -76,3 +76,10 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
 
+
+## Day 8: August 5, 2017
+**Today's Progress**: Reworked the interface for the Tic-Tac-Toe project
+
+**Thoughts**: Not much done.
+
+**Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
