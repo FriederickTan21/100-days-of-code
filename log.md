@@ -83,3 +83,12 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts**: Not much done.
 
 **Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
+
+
+## Day 9: August 6, 2017
+**Today's Progress**: Worked on the logic for the Tic-Tac-Toe project
+
+**Thoughts**: I'm believe I'm almost done.
+
+**Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
+
