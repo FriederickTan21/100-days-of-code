@@ -92,3 +92,34 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
 
+
+## Day 10: August 7, 2017
+**Today's Progress**: Finished working on Tic-Tac-Toe, onto Simon
+
+**Thoughts**: I lost to my own game ;(, also excited to work on Simon!
+
+**Link(s) to work**: [Tic-Tac-Toe](https://codepen.io/friedericktan/pen/oeLEzJ)
+
+
+## Day 11: August 9, 2017
+**Today's Progress**: Started working on Simon game
+
+**Thoughts**: As per usual I don't know what direction I should take the design with.
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 12: August 10, 2017
+**Today's Progress**: Worked on interface of Simon game
+
+**Thoughts**: I very much dislike z-layers
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 13: August 11, 2017
+**Today's Progress**: Finishing interface of Simon game, worked on framework of logic
+
+**Thoughts**: I still don't like z-layers >:(
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
