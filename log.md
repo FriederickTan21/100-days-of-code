@@ -123,3 +123,44 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 **Thoughts**: I still don't like z-layers >:(
 
 **Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 14: August 12, 2017
+**Today's Progress**: Satisfied with the interface, worked on the logic
+
+**Thoughts**: I've written down the framework on a piece of paper to help me with it
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 15: August 13, 2017
+**Today's Progress**: Finished Simon Game
+
+**Thoughts**: It works!
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 16: August 14, 2017
+**Today's Progress**: Checked previous projects if they still worked, redeemed Front End Developer Certificate, then learned some ES6
+
+**Thoughts**: Very happy with the progress I've made :). Also ES6 seems very foriegn...
+
+**Link(s) to work**: [Front End Certification](https://www.freecodecamp.org/friedericktan21/front-end-certification)
+
+
+## Day 17: August 16, 2017
+**Today's Progress**: Completed the npm challenges, studied some more ES6
+
+**Thoughts**: I now have some understanding of both npm and ES6
+
+**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+
+
+## Day 18: August 17, 2017
+**Today's Progress**: Worked through the React tutorial
+
+**Thoughts**: Sass was more straight-foreword that I thought it would be, however React was not.
+
+**Link(s) to work**: [React-tac-toe](https://codepen.io/friedericktan/pen/rzpbgW?editors=0010)
+
