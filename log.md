@@ -164,3 +164,19 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Link(s) to work**: [React-tac-toe](https://codepen.io/friedericktan/pen/rzpbgW?editors=0010)
 
+
+## Day 19: August 18, 2017
+**Today's Progress**: Started working on live Markdown Previewer
+
+**Thoughts**: React is a very strange way to make a website
+
+**Link(s) to work**: [Markdown Previewer](https://codepen.io/friedericktan/pen/praaaE)
+
+
+## Day 20: August 20, 2017
+**Today's Progress**: Finished Markdown Previewer, started working on freeCodeCamp Leaderboard
+
+**Thoughts**: On second thought React isn't so bad.
+
+**Link(s) to work**: [Markdown Previewer](https://codepen.io/friedericktan/pen/praaaE)
+[freeCodeCamp Leaderboard](https://codepen.io/friedericktan/pen/oeqboz)
