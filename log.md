@@ -154,7 +154,7 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Thoughts**: I now have some understanding of both npm and ES6
 
-**Link(s) to work**: [Simon Game](https://codepen.io/friedericktan/pen/ZJLpxd)
+**Link(s) to work**: (((nothing)))
 
 
 ## Day 18: August 17, 2017
@@ -180,3 +180,19 @@ Started on 1501098944 / Wed Jul 26 19:55:44 2017 UTC
 
 **Link(s) to work**: [Markdown Previewer](https://codepen.io/friedericktan/pen/praaaE)
 [freeCodeCamp Leaderboard](https://codepen.io/friedericktan/pen/oeqboz)
+
+
+## Day 21: August 21, 2017
+**Today's Progress**: Finished the freeCodeCamp Leaderboard
+
+**Thoughts**: Getting use to working with React.
+
+**Link(s) to work**: [freeCodeCamp Leaderboard](https://codepen.io/friedericktan/pen/oeqboz)
+
+
+## Day 22: August 22, 2017
+**Today's Progress**: Started working on a Recipe Box project
+
+**Thoughts**: After much self contemplation I went and tried out [Materialize](http://materializecss.com). While so far its looks really good, it feels a tiny bit off and I'm not quite sure why.
+
+**Link(s) to work**: [Recipe Box](https://codepen.io/friedericktan/pen/brMVgE)
